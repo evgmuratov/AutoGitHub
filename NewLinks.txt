@@ -1,0 +1,7 @@
+Series of video guides from eLearnify project of linda.com
+What is object https://goo.gl/ZFXVsA
+What is class https://goo.gl/4yHCHg
+What is abstraction https://goo.gl/zcHnpa
+What is encapsulation https://goo.gl/336EE8
+What is inheritance https://goo.gl/JmI1kQ
+What is polymorphism https://goo.gl/IFH5Sr
